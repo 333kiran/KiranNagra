@@ -1,4 +1,4 @@
-<img src= "https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif" alt="bannerimage" width="100%" height=""200px> 
+<img src= "https://gifimage.net/wp-content/uploads/2018/11/gif-banner-for-website-5.gif" alt="bannerimage" width="100%" height="200px"> 
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width = "400" src = "https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46">
